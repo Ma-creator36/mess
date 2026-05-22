@@ -1,0 +1,36 @@
+table{
+   border-collapse: collapse;
+   border-style: solid;
+   border-width: 2px;
+   border-color: blue;
+   padding: 10px;
+   text-align: center;
+   height: 200px;
+   width: 1200px;
+   margin: auto;
+    
+   
+}
+h1{
+    text-align: left;
+    color: red;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+thead{
+background-color: rgb(57, 85, 96);
+color: white;
+
+}
+th,td{
+    border: 1px solid black;
+    text-align: center;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 8px;
+    padding-right: 8px;
+    font-size: medium;
+} 
+
+
